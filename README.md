@@ -1,4 +1,9 @@
-### Hi there 👋
+![](https://img.shields.io/badge/Code-React-green?style=flat&logo=react&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-Typescript-green?style=flat&logo=typescript&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js&logoColor=white&color=success)
+![](https://img.shields.io/badge/Editor-VS_Code-green?style=flat&logo=visual-studio-code&logoColor=white&color=success)
+![](https://img.shields.io/badge/Testing-Jest-green?style=flat&logo=jest&logoColor=white&color=success)
+![](https://img.shields.io/badge/Client-Electron-green?style=flat&logo=electron&logoColor=white&color=success)
 
 ![Wangkailang's github stats](https://github-readme-stats.vercel.app/api?username=wangkailang&count_private=true&show_icons=true&theme=onedark)
 
